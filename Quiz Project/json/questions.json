@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What does HTML stand for?",
+    "choice1": "Hyper Text Markup Language",
+    "choice2": "Hyper Transfer Markup Language",
+    "choice3": "High Text Markup Language",
+    "choice4": "Hyperlink and Text Markup Language",
+    "answer": 1
+  },
+  {
+    "question": "Which programming language is known as the 'mother of all languages'?",
+    "choice1": "C",
+    "choice2": "Java",
+    "choice3": "Assembly",
+    "choice4": "Python",
+    "answer": 3
+  },
+  {
+    "question": "What is the purpose of CSS in web development?",
+    "choice1": "Client-Side Scripting",
+    "choice2": "Cascading Style Sheets",
+    "choice3": "Centralized Style Sheets",
+    "choice4": "Computer Style Sheets",
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is a JavaScript framework?",
+    "choice1": "React",
+    "choice2": "Django",
+    "choice3": "Flask",
+    "choice4": "Spring",
+    "answer": 1
+  },
+  {
+    "question": "In Python, what is the purpose of the 'self' keyword?",
+    "choice1": "It represents the instance of the class",
+    "choice2": "It refers to the superclass",
+    "choice3": "It initializes the class variables",
+    "choice4": "It is a reserved keyword and has no specific purpose",
+    "answer": 1
+  }
+]
